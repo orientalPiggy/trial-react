@@ -1,5 +1,5 @@
 import React from 'react'
-import CourseCard from "./CourseCard";
+import Card from "./Card";
 import Message from "./Message";
 import Add from "./Add"
 import CourseList from "./CourseList";
@@ -7,30 +7,22 @@ import NavigationBar from "./NavigationBar";
 import Search from "./Search";
 
 
+
 export default class WhiteBoard extends React.Component {
     render() {
         return (
             <div>
-
-
-
                 <NavigationBar/>
                 <div className="card-deck">
-                    <CourseCard/>
-                    <CourseCard/>
-                    <CourseCard/>
+                    <Card/>
+                    <Card/>
+                    <Card/>
                 </div>
-                <CourseCard/>
-                <CourseCard/>
-                <CourseCard/>
-                <CourseCard/>
-                <CourseCard/>
-                <CourseCard/>
-
-
-
-
-
+                <div className="card-deck">
+                    <Card/>
+                    <Card/>
+                    <Card/>
+                </div>
 
             </div>
         )

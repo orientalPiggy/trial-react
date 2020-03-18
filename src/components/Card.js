@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default class CourseCard extends React.Component {
+export default class Card extends React.Component {
     render() {
         return (
             <div className="card" style={{width: '15rem'}}>
