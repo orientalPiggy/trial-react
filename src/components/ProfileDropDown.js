@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from '@material-ui/core/Button';
 import Icon from '@material-ui/icons'
-import ImageAvatars from "./ImageAvatars";
+import AvatarsButton from "./AvatarsButton";
 import ProfileIcon from "./ProfileIcon";
 
 const ProfileDropDown = () => (

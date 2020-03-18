@@ -5,7 +5,8 @@ import ProfileIcon from "./ProfileIcon";
 import ProfileDropDown from "./ProfileDropDown";
 import Badge from "./MailBadge";
 import MailBadge from "./MailBadge";
-import ImageAvatars from "./ImageAvatars";
+import AvatarsButton from "./AvatarsButton";
+import ButtonGroup from "@material-ui/core/ButtonGroup";
 
 
 export default class CourseCard extends React.Component {
@@ -35,9 +36,7 @@ export default class CourseCard extends React.Component {
                             <a className="nav-link" href="#">Section 2</a>
                         </li>
 
-                        <li className="nav-item">
-                            <a className="nav-link disabled" href="#" tabIndex="-1" aria-disabled="true">Disabled</a>
-                        </li>
+
                     </ul>
 
                     <form className="form-inline d-flex justify-content-center md-form form-sm mt-0">
@@ -45,29 +44,23 @@ export default class CourseCard extends React.Component {
                         <input className="form-control form-control-sm ml-3 w-75" type="text" placeholder="Search"
                                aria-label="Search"></input>
                     </form>
+
+
                 </div>
 
-
-
-
-
-                <ProfileDropDown/>
-
-                <ImageAvatars/>
-
-
-
-
+                <ButtonGroup/>
 
                 <LoginButton/>
 
                 <SignupButton/>
 
-                <ProfileIcon/>
+
 
                 <MailBadge/>
 
+                <AvatarsButton/>
 
+                <ButtonGroup/>
 
 
 

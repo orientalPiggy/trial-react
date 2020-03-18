@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="351d027d-d7f5-4a92-adfd-c4a7cd24fa0b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ImageAvatars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LoginButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MailBadge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProfileDropDown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ProfileIcon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SignupButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ButtonGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignUp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CourseCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ImageAvatars.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AvatarsButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LogIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LogIn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MailBadge.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MailBadge.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProfileDropDown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProfileDropDown.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/WhiteBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WhiteBoard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584057158840</updated>
       <workItem from="1584061705132" duration="4857000" />
-      <workItem from="1584237281153" duration="21382000" />
+      <workItem from="1584237281153" duration="28004000" />
     </task>
     <servers />
   </component>

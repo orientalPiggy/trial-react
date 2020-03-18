@@ -6,12 +6,13 @@ import MailIcon from '@material-ui/icons/Mail';
 const useStyles = makeStyles(theme => ({
     root: {
         '& > *': {
-            margin: theme.spacing(1),
+            margin: theme.spacing(2),
         },
     },
 }));
 
 export default function SimpleBadge() {
+
     const classes = useStyles();
 
     return (
